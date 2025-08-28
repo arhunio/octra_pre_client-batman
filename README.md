@@ -20,7 +20,7 @@ a terminal wallet reminiscent of dos-era tui interfaces — but built with moder
 - internet connection  
 - your wallet file (private key)
 
-## how to install and run (step by step)
+## how to install and run (step by step).
 
 1. open terminal  
 
