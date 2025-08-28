@@ -1,4 +1,4 @@
-# octra terminal client.
+#octra terminal client.
 
 a terminal wallet reminiscent of dos-era tui interfaces — but built with modern asynchronous architecture
 
