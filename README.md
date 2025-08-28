@@ -2,7 +2,7 @@
 
 a terminal wallet reminiscent of dos-era tui interfaces — but built with modern asynchronous architecture
 
-## what it does
+## what it does.
 
 - shows your octra wallet balance and tx history  
 - lets you send one or many transactions  
