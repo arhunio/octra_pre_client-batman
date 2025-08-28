@@ -14,7 +14,7 @@ a terminal wallet reminiscent of dos-era tui interfaces — but built with moder
 - mac  
 - windows (some features like clipboard may not work)
 
-## what you need
+## what you need.
 
 - python 3.8 or higher  
 - internet connection  
